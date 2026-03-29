@@ -22,12 +22,12 @@ chmod u+x service.sh
   
 DOWNLOAD:
 
-git clone https://github.com/Sergeydigl3/zapret-discord-youtube-linux.git  
-cd zapret-discord-youtube-linux
-./service.sh download-deps --default
-
-RUN:
+git clone https://github.com/Sergeydigl3/zapret-discord-youtube-linux.git   
+cd zapret-discord-youtube-linux  
+./service.sh download-deps --default  
+  
+RUN:  
  
-chmod u+x auto_tune_youtube.sh
-chmod u+x service.sh
-./service.sh
+chmod u+x auto_tune_youtube.sh  
+chmod u+x service.sh  
+./service.sh  
