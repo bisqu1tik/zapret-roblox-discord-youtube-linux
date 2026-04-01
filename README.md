@@ -1,4 +1,4 @@
-# zapret-roblox-discord-youtube-linux
+zapret-roblox-discord-youtube-linux
 ## DEEEEEMOOOOOO  
 Zapret redacted for my use.   
 Zapret includes roblox, discord, youtube.   
@@ -9,25 +9,26 @@ sry for my dumb code
 my discord: bisqu1tik
 
 
-DOWNLOAD & RUN:  
-  
+## DOWNLOAD & RUN:  
+```bash
 git clone https://github.com/Sergeydigl3/zapret-discord-youtube-linux.git  
 cd zapret-discord-youtube-linux  
 chmod u+x auto_tune_youtube.sh
 chmod u+x service.sh
-  
+
 ./service.sh download-deps --default  
 ./service.sh  
+```  
   
-  
-DOWNLOAD:
-
+## DOWNLOAD:
+```bash
 git clone https://github.com/Sergeydigl3/zapret-discord-youtube-linux.git   
 cd zapret-discord-youtube-linux  
 ./service.sh download-deps --default  
-  
-RUN:  
- 
+```
+## RUN:  
+```bash
 chmod u+x auto_tune_youtube.sh  
 chmod u+x service.sh  
 ./service.sh  
+```
