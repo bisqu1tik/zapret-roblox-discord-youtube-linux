@@ -11,7 +11,7 @@ my discord: bisqu1tik
 ## DOWNLOAD & RUN:  
 ```bash
 git clone https://github.com/bisqu1tik/zapret-roblox-discord-youtube-linux.git
-cd zapret-discord-youtube-linux  
+cd zapret-roblox-discord-youtube-linux 
 chmod u+x auto_tune.sh
 chmod u+x service.sh
 
@@ -22,7 +22,7 @@ chmod u+x service.sh
 ## DOWNLOAD:
 ```bash
 git clone https://github.com/bisqu1tik/zapret-roblox-discord-youtube-linux.git
-cd zapret-discord-youtube-linux  
+cd zapret-roblox-discord-youtube-linux
 ./service.sh download-deps --default  
 ```
 ## RUN:  
