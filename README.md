@@ -33,3 +33,6 @@ chmod u+x auto_tune.sh
 chmod u+x service.sh  
 ./service.sh  
 ```
+
+> [!IMPORTANT]
+> ussualy gen10.bat is working for all
