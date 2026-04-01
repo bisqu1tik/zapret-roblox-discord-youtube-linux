@@ -5,8 +5,9 @@ ALL SOURCE FROM https://github.com/Sergeydigl3/zapret-discord-youtube-linux. I j
 needed urls lol. :D
 sry for my dumb code
 my discord: bisqu1tik
+> [!IMPORTANT]
+> switch ipset to ALL for roblox work
 
-# switch ipset to ALL for roblox work
 
 ## DOWNLOAD & RUN:  
 ```bash
