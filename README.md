@@ -13,7 +13,7 @@ my discord: bisqu1tik
 ```bash
 git clone https://github.com/Sergeydigl3/zapret-discord-youtube-linux.git  
 cd zapret-discord-youtube-linux  
-chmod u+x auto_tune_youtube.sh
+chmod u+x auto_tune.sh
 chmod u+x service.sh
 
 ./service.sh download-deps --default  
@@ -28,7 +28,7 @@ cd zapret-discord-youtube-linux
 ```
 ## RUN:  
 ```bash
-chmod u+x auto_tune_youtube.sh  
+chmod u+x auto_tune.sh  
 chmod u+x service.sh  
 ./service.sh  
 ```
