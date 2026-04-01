@@ -6,7 +6,7 @@ needed urls lol. :D
 sry for my dumb code
 my discord: bisqu1tik
 
-# switch ipset to ALL FOR ROBLOX
+# switch ipset to ALL for roblox work
 
 ## DOWNLOAD & RUN:  
 ```bash
