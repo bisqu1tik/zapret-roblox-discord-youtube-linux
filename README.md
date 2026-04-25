@@ -6,7 +6,7 @@ needed urls lol. :D
 sry for my dumb code
 my discord: bisqu1tik
 > [!IMPORTANT]
->  SWITCH IPSET TO ALL FOR ROBLOX WORK
+>  SWITCH IPSET TO ALL FOR ROBLOX WORK(if doesnt exists) 
 >  AND ENABLE GAMEFILTER
 
 
