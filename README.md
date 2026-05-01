@@ -36,3 +36,4 @@ chmod u+x service.sh
 
 > [!IMPORTANT]
 > ussualy gen10.bat is working for all
+> or SIMPLE_FAKE for SURE work Sober
